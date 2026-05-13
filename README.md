@@ -8,7 +8,7 @@ I'm currently a student majoring in **Computer Science** and **Spanish**. I have
 - 😄 Pronouns: she/her
 - 💻 Learning: Currently expanding my knowledge in web development, c++, and python
 - 📚 Interests: Reading, Crocheting, and fooling around with tech
-- 
+
 ## 🤝 Get In Touch
 <a href="https://www.linkedin.com/in/jolie-robison-7aa734296/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
