@@ -5,7 +5,7 @@
 
 - 🎓 BS in **Computer Science** and BA in **Spanish Language and Literature** at Fordham University (2023-present)
 - 📚 Passionate about the intersection of technology and languages
-- 💻 Currently expanding my knowledge in **C++, Python, Databases, and Cybersecurity**
+- 💻 Currently expanding my knowledge in **C++, Python, Databases, Cybersecurity, and Quantum Computing**
 - 🌍 Based in **New York**, originally from **Alaska**!!
 
 # 💻 Tech Stack:
